@@ -18,8 +18,8 @@
 Provide instructions on how to use the project.
 
 ## Note:
-1. Make sure you have installed Python.
-2. You are using this script at your own risk.
+1. Make sure you have **installed Python.**
+2. You are using this script at **your own risk.**
 
 ## License
 
