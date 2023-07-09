@@ -2,12 +2,12 @@
 A simple Ngl.Link message flooder written in Python.
 
 
-### Installation and usage
+## Installation and usage
 
-## Windows:
+### Windows:
 Explain how to install and set up the project.
 
-## Linux/Mac:
+### Linux/Mac:
 
 Provide instructions on how to use the project.
 
