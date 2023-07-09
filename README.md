@@ -1,5 +1,6 @@
 # FloodifyNGL
-A simple Ngl.Link message flooder written in Python. A funny way to prank your friends.
+A simple Ngl.Link message flooder written in Python.
+A funny way to prank your friends.
 
 
 ## Installation and usage
