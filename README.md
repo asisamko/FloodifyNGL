@@ -2,7 +2,7 @@
 <h3 align="center">A simple Ngl.Link message flooder written in Python.</h3>
 
 
-## Installation and usage
+## Installation and usage:
 
 ### Windows:
 1. Download the zip file
