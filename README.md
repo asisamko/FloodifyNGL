@@ -1,6 +1,5 @@
 <h1 align="center">FloodifyNGL</h1>
-<h2 align="center">A simple Ngl.Link message flooder written in Python.</h2>
-<h2 align="center">A funny way to prank your friends.</h2>
+<h2 align="center">A simple Ngl.Link message flooder written in Python.\nA funny way to prank your friends.</h2>
 
 
 ## Installation and usage
