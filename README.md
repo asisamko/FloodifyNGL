@@ -1,6 +1,6 @@
 <h1 align="center">FloodifyNGL</h1>
 <h3 align="center">A simple Ngl.Link message flooder written in Python.</h3>
-<span style="font-size: 20px;">Text with custom font size</span>
+<span style="font-size: 60px;">Text with custom font size</span>
 
 
 ## Installation and usage
