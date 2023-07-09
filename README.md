@@ -17,9 +17,9 @@
 
 Provide instructions on how to use the project.
 
-## Contributing
-
-Explain how others can contribute to the project.
+## Note:
+1. Make sure you have installed Python.
+2. You are using this script at your own risk.
 
 ## License
 
