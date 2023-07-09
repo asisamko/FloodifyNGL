@@ -5,7 +5,10 @@ A simple Ngl.Link message flooder written in Python.
 ## Installation and usage
 
 ### Windows:
-Explain how to install and set up the project.
+1. Download the zip file
+2. Extract the folder
+3. Right click on the extracted folder and click **Open in terminal**
+4. To run type ```python flooder.py```
 
 ### Linux/Mac:
 
