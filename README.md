@@ -23,4 +23,4 @@ Provide instructions on how to use the project.
 
 ## License
 
-Mention the license under which the project is distributed.
+I have no idea.
