@@ -19,7 +19,7 @@
 
 ### Linux/MacOS:
 ```
-1. git clone https://github.com/asisamko/FloodifyNGL.git```
+1. git clone https://github.com/asisamko/FloodifyNGL.git
 2. cd FloodifyNGL```
 3. python flooder.py
 ```
