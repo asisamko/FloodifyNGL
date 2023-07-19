@@ -26,9 +26,7 @@ python flooder.py
 ```
 
 ## Note:
-1. Make sure you have **Python installed.**
-2. You are using this script at **your own risk.**
-3. I am **NOT responsible** for anything you do with this script.
+**_Flooding messages are against the Terms of Usage of NGL.link I'm not responsible for any damage caused by this script._**
 
 ## License
 I have no idea
