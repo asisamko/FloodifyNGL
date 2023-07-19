@@ -26,7 +26,7 @@ python flooder.py
 ```
 
 ## ⚠️ Note:
-**Flooding messages are against the Terms of Usage of NGL.link**
+**Flooding messages are against the [Terms of Usage]([https://link-url-here.org](https://ngl.link/terms-of-service)) of NGL.link**
 
 **I'm not responsible for any damage caused by this script.**
 
