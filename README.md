@@ -1,7 +1,7 @@
 <h1 align="center">FloodifyNGL</h1>
 <h3 align="center">A simple Ngl.Link message flooder written in Python. 💌</h3>
 
-## Features👀:
+##👀 Features:
 - You do not need to install any pip packages
 - Spam random generated messages
 - Create a custom list of messages
@@ -9,7 +9,7 @@
 - Hide device info from the receiver
 - More coming soon...
 
-## Installation and usage:
+##💾 Installation and usage:
 
 ### Windows:
 1. Download the zip file
