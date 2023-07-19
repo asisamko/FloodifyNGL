@@ -19,10 +19,11 @@
 
 ### Linux/MacOS:
 ```
-1. git clone https://github.com/asisamko/FloodifyNGL.git
-2. cd FloodifyNGL
-3. python flooder.py
+git clone https://github.com/asisamko/FloodifyNGL.git
+cd FloodifyNGL
+python flooder.py
 ```
+Just paste this to your Terminal :)
 
 ## Note:
 1. Make sure you have **Python installed.**
