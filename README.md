@@ -18,12 +18,12 @@
 4. To run type: ```python flooder.py
 
 ### Linux/MacOS:
+Just paste this to your Terminal:
 ```
 git clone https://github.com/asisamko/FloodifyNGL.git
 cd FloodifyNGL
 python flooder.py
 ```
-Just paste this to your Terminal :)
 
 ## Note:
 1. Make sure you have **Python installed.**
