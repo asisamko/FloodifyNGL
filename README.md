@@ -25,7 +25,7 @@ cd FloodifyNGL
 python flooder.py
 ```
 
-## Note:
+## ⚠️ Note:
 **_Flooding messages are against the Terms of Usage of NGL.link
 I'm not responsible for any damage caused by this script._**
 
