@@ -26,7 +26,7 @@ python flooder.py
 ```
 
 ## ⚠️ Note:
-**Flooding messages are against the [Terms of Usage of NGL.link]([https://www.genome.gov/](https://ngl.link/terms-of-service))**
+**Flooding messages are against the [Ngl.Link Terms of Service]([https://www.genome.gov/](https://ngl.link/terms-of-service))**
 
 **I'm not responsible for any damage caused by this script.**
 
