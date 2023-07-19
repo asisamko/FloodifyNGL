@@ -2,7 +2,8 @@
 <h3 align="center">A simple Ngl.Link message flooder written in Python.</h3>
 
 ## Features:
-
+- You do not need to install any pip packages
+- Create custom or generate random message(s)
 
 ## Installation and usage:
 
@@ -12,14 +13,12 @@
 3. Right-click on the extracted folder and click **Open in terminal**
 4. To run type: ```python flooder.py```
 
-### Linux/Mac:
+### Linux/MacOS:
 ```
 1. git clone https://github.com/asisamko/FloodifyNGL.git```
 2. cd FloodifyNGL```
 3. To run type: ```python flooder.py```
 ```
-
-Provide instructions on how to use the project.
 
 ## Note:
 1. Make sure you have **Python installed.**
