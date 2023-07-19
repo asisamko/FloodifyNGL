@@ -3,7 +3,8 @@
 
 ## Features:
 - You do not need to install any pip packages
-- Create custom or generate random message(s)
+- Spam random generated messages
+- Create a custom list of messages
 
 ## Installation and usage:
 
