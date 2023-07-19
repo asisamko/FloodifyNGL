@@ -28,11 +28,11 @@ python flooder.py
 ## ⚠️ Note:
 **Flooding messages are against the Terms of Usage of NGL.link**
 
-
 **I'm not responsible for any damage caused by this script.**
 
 ## License
 This project is licensed under GNU General Public License v3.0.
+
 Check the LICENSE file for more information.
 
 
