@@ -32,4 +32,5 @@ I'm not responsible for any damage caused by this script._**
 ## License
 I have no idea
 
-Made with Python and 💖 by asisamko.
+
+**Made with Python and 💖 by asisamko.**
