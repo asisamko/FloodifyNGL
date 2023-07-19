@@ -34,4 +34,5 @@ This project is licensed under GNU General Public License v3.0.
 Check the LICENSE file for more information.
 
 
+#
 **Made with Python and 💖 by asisamko.**
