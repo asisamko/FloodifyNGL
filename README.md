@@ -31,7 +31,6 @@ Just paste this to your Terminal :)
 3. I am **NOT responsible** for anything you do with this script.
 
 ## License
-
-I have no idea.
+I have no idea
 
 Made with Python and 💖 by asisamko.
