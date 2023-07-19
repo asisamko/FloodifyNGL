@@ -9,7 +9,7 @@
 - Hide device info from the receiver
 - More coming soon...
 
-## 💾 Installation and usage:
+## 💾 Installation and usage::::ysas
 
 ### Windows:
 1. Download the zip file
