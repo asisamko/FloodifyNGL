@@ -9,7 +9,7 @@
 - Hide device info from the receiver
 - More coming soon...
 
-## 💾 Installation and usage::::ysas
+## 💾 Installation and usage:
 
 ### Windows:
 1. Download the zip file
@@ -26,7 +26,7 @@ python flooder.py
 ```
 
 ## ⚠️ Note:
-**Flooding messages are against the [Terms of Usage]([https://link-url-here.org](https://ngl.link/terms-of-service)) of NGL.link**
+**Flooding messages are against the [Terms of Usage]([https://link-url-here.org](https://ngl.link/terms-of-service) of NGL.link**
 
 **I'm not responsible for any damage caused by this script.**
 
