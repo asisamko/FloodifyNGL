@@ -5,7 +5,7 @@
 - You do not need to install any pip packages
 - Spam random generated messages
 - Create a custom list of messages
-- Hide device info from receiver
+- Hide device info from the receiver
 
 ## Installation and usage:
 
@@ -30,3 +30,5 @@
 ## License
 
 I have no idea.
+
+Made with Python and 💖 by asisamko.
