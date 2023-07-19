@@ -6,7 +6,6 @@
 - Spam random generated messages
 - Create a custom list of messages
 - Hide device info from receiver
-- 
 
 ## Installation and usage:
 
