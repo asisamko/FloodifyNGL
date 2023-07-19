@@ -5,7 +5,7 @@
 - You do not need to install any pip packages
 - Spam random generated messages
 - Create a custom list of messages
-- Customize flooding Dealey 
+- Customize flooding delay
 - Hide device info from the receiver
 
 ## Installation and usage:
