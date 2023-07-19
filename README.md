@@ -34,8 +34,4 @@ I have no idea
 
 Made with Python and 💖 by asisamko.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+![Ngl.Link logo]([http://url/to/img.png](https://assets.website-files.com/62a6e19b906fa55f541799d7/62a6e2da4349165183f83d89_ngl_icon.png)https://assets.website-files.com/62a6e19b906fa55f541799d7/62a6e2da4349165183f83d89_ngl_icon.png)
