@@ -16,8 +16,8 @@
 ```
 1. git clone https://github.com/asisamko/FloodifyNGL.git```
 2. cd FloodifyNGL```
-```
 3. To run type: ```python flooder.py```
+```
 
 Provide instructions on how to use the project.
 
