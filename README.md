@@ -7,7 +7,7 @@
 - Create a custom list of messages
 - Customize flooding delay
 - Hide device info from the receiver
-- More coming soon
+- More coming soon...
 
 ## Installation and usage:
 
@@ -33,7 +33,3 @@ I'm not responsible for any damage caused by this script._**
 I have no idea
 
 Made with Python and 💖 by asisamko.
-
-<img src="[markdownmonstericon.png](https://assets.website-files.com/62a6e19b906fa55f541799d7/62a6e2da4349165183f83d89_ngl_icon.png)https://assets.website-files.com/62a6e19b906fa55f541799d7/62a6e2da4349165183f83d89_ngl_icon.png"
-     alt="Ngl.Link logo"
-     style="float: left; margin-right: 10px;" />
