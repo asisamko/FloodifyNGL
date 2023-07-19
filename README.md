@@ -34,4 +34,6 @@ I have no idea
 
 Made with Python and 💖 by asisamko.
 
-![Ngl.Link logo]([http://url/to/img.png](https://assets.website-files.com/62a6e19b906fa55f541799d7/62a6e2da4349165183f83d89_ngl_icon.png)https://assets.website-files.com/62a6e19b906fa55f541799d7/62a6e2da4349165183f83d89_ngl_icon.png)
+<img src="[markdownmonstericon.png](https://assets.website-files.com/62a6e19b906fa55f541799d7/62a6e2da4349165183f83d89_ngl_icon.png)https://assets.website-files.com/62a6e19b906fa55f541799d7/62a6e2da4349165183f83d89_ngl_icon.png"
+     alt="Ngl.Link logo"
+     style="float: left; margin-right: 10px;" />
