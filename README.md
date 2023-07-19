@@ -7,6 +7,7 @@
 - Create a custom list of messages
 - Customize flooding delay
 - Hide device info from the receiver
+- More coming soon
 
 ## Installation and usage:
 
@@ -20,7 +21,7 @@
 ```
 1. git clone https://github.com/asisamko/FloodifyNGL.git```
 2. cd FloodifyNGL```
-3. To run type: ```python flooder.py```
+3. python flooder.py
 ```
 
 ## Note:
