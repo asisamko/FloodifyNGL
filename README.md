@@ -33,7 +33,7 @@ python flooder.py
 ## License
 This project is licensed under GNU General Public License v3.0.
 
-Check the [LICENSE](main/LICENSE) file for more information.
+Check the [LICENSE](LICENSE) file for more information.
 
 
 #
