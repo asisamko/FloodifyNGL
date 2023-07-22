@@ -1,9 +1,10 @@
 <h1 align="center">FloodifyNGL</h1>
 <h3 align="center">A simple Ngl.Link message flooder written in Python. 💌</h3>
 
-### This is the first version. I'm currently working on a much faster version using more threads at the same time.
 
 ##
+This is the first version. I'm currently working on a much faster version using more threads at the same time.
+
 ## 👀 Features:
 - You do not need to install any pip packages
 - Spam random generated messages
