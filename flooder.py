@@ -1,12 +1,11 @@
 import subprocess
-import threading
 import platform
 import random
 import time
 import json
 import os
 
-
+# Set colors
 color_yellow = "\033[93m"
 color_green = "\033[92m"
 color_red = "\033[91m"
