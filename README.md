@@ -34,7 +34,7 @@ python flooder.py
 
 **I'm not responsible for any damage caused by this script.**
 
-## 🔉📝 License
+## 📝 License
 Check the [LICENSE](LICENSE) file for more information.
 
 
