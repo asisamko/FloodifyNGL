@@ -42,4 +42,5 @@ Check the [LICENSE](LICENSE) file for more information.
 
 #
 **Made with Python and 💖 by asisamko.**
+
 **Bug fix and test by my friend.**
