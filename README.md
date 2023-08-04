@@ -35,8 +35,6 @@ python flooder.py
 **I'm not responsible for any damage caused by this script.**
 
 ## License
-This project is licensed under GNU General Public License v3.0.
-
 Check the [LICENSE](LICENSE) file for more information.
 
 
