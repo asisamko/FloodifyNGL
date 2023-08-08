@@ -6,10 +6,9 @@
 This is the first version. I'm currently working on a much faster version using more threads at the same time.
 
 ## 👀 Features:
-- You do not need to install any pip packages
+- You **do not** need to install any pip packages
 - Spam random generated messages
 - Create a custom list of messages
-- Customize flooding delay
 - Hide device info from the receiver
 - More coming soon...
 
