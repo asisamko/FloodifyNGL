@@ -29,7 +29,7 @@ python flooder.py
 ```
 
 ## ⚠️ Note:
-**Flooding messages are against the [Ngl.Link Terms of Service](https://ngl.link/terms-of-service)**
+**Flooding messages is against the [Ngl.Link Terms of Service](https://ngl.link/terms-of-service)**
 
 **I'm not responsible for any damage caused by this script.**
 
