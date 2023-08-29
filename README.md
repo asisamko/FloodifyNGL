@@ -10,7 +10,7 @@ This is the first version. I'm currently working on a much faster version using 
 - Spam random generated messages
 - Create a custom list of messages
 - Hide device info from the receiver
-- More coming soon...
+- More coming soon... ([Ngl.Link UI](https://github.com/asisamko/FloodifyNGL-UI).)
 
 ## 💾 Installation and usage:
 
