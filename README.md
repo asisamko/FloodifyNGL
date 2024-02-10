@@ -3,14 +3,15 @@
 
 
 ##
-This is the first version. I'm currently working on a much faster version using more threads at the same time.
+This is the first version. I'm currently working on a much faster version, but I do not have time.
 
 ## 👀 Features:
-- You **do not** need to install any pip packages
+- You **do not** need to install any pip packages!
+- List with 200 random questions
 - Spam random generated messages
 - Create a custom list of messages
 - Hide device info from the receiver
-- More coming soon... ([Working on Ngl.Link UI](https://github.com/asisamko/FloodifyNGL-UI))
+- More coming soon... ([Working on Ngl.Link UI](https://github.com/asisamko/FloodifyNGL-UI)) (currently private)
 
 ## 💾 Installation and usage:
 
