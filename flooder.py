@@ -66,7 +66,7 @@ if message_option == 'y':
             break
         messages.append(message)
 else:
-    with open("messages_sk2.txt", "r", encoding="utf-8") as file:
+    with open("messages.txt", "r", encoding="utf-8") as file:
       messages = [line.strip() for line in file if line.strip()]
 
 
